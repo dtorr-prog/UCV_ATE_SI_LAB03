@@ -1,0 +1,5 @@
+kedro
+opencv-python
+numpy
+matplotlib
+pytest
